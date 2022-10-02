@@ -1,0 +1,3 @@
+# selenium-test-Bilibili
+使用selenium自动化测试b站
+先单独运行getcookie,手动登录后打开控制台按回车键，可以发现多了jsoncookie.json文件，之后就可以实现自动登录正常运行其他代码
